@@ -1,0 +1,7 @@
+{
+  "photos": [
+    { "id": 1, "albumId": 1, "title": "Forest path", "thumbnailUrl": "https://picsum.photos/id/1018/200/200", "url": "https://picsum.photos/id/1018/800/600" },
+    { "id": 2, "albumId": 1, "title": "Sea horizon", "thumbnailUrl": "https://picsum.photos/id/1011/200/200", "url": "https://picsum.photos/id/1011/800/600" },
+    { "id": 3, "albumId": 2, "title": "City lights", "thumbnailUrl": "https://picsum.photos/id/1015/200/200", "url": "https://picsum.photos/id/1015/800/600" }
+  ]
+}
