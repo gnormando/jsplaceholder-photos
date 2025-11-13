@@ -1,48 +1,7 @@
 {
   "photos": [
-    { "id": 1,  "albumId": 1,  "title": "forest", "thumbnailUrl": "https://picsum.photos/id/1001/200/200", "url": "https://picsum.photos/id/1001/1024/768" },
-    { "id": 2,  "albumId": 1,  "title": "lake", "thumbnailUrl": "https://picsum.photos/id/1002/200/200", "url": "https://picsum.photos/id/1002/1024/768" },
-    { "id": 3,  "albumId": 1,  "title": "mountain", "thumbnailUrl": "https://picsum.photos/id/1003/200/200", "url": "https://picsum.photos/id/1003/1024/768" },
-    { "id": 4,  "albumId": 1,  "title": "beach", "thumbnailUrl": "https://picsum.photos/id/1004/200/200", "url": "https://picsum.photos/id/1004/1024/768" },
-    { "id": 5,  "albumId": 2,  "title": "city", "thumbnailUrl": "https://picsum.photos/id/1005/200/200", "url": "https://picsum.photos/id/1005/1024/768" },
-    { "id": 6,  "albumId": 2,  "title": "night", "thumbnailUrl": "https://picsum.photos/id/1006/200/200", "url": "https://picsum.photos/id/1006/1024/768" },
-    { "id": 7,  "albumId": 2,  "title": "bridge", "thumbnailUrl": "https://picsum.photos/id/1007/200/200", "url": "https://picsum.photos/id/1007/1024/768" },
-    { "id": 8,  "albumId": 2,  "title": "road", "thumbnailUrl": "https://picsum.photos/id/1008/200/200", "url": "https://picsum.photos/id/1008/1024/768" },
-
-    { "id": 9,  "albumId": 11, "title": "flowers", "thumbnailUrl": "https://picsum.photos/id/1010/200/200", "url": "https://picsum.photos/id/1010/1024/768" },
-    { "id": 10, "albumId": 11, "title": "river", "thumbnailUrl": "https://picsum.photos/id/1011/200/200", "url": "https://picsum.photos/id/1011/1024/768" },
-    { "id": 11, "albumId": 11, "title": "forest 2", "thumbnailUrl": "https://picsum.photos/id/1012/200/200", "url": "https://picsum.photos/id/1012/1024/768" },
-    { "id": 12, "albumId": 11, "title": "camping", "thumbnailUrl": "https://picsum.photos/id/1013/200/200", "url": "https://picsum.photos/id/1013/1024/768" },
-    { "id": 13, "albumId": 12, "title": "street", "thumbnailUrl": "https://picsum.photos/id/1014/200/200", "url": "https://picsum.photos/id/1014/1024/768" },
-    { "id": 14, "albumId": 12, "title": "cars", "thumbnailUrl": "https://picsum.photos/id/1015/200/200", "url": "https://picsum.photos/id/1015/1024/768" },
-    { "id": 15, "albumId": 12, "title": "market", "thumbnailUrl": "https://picsum.photos/id/1016/200/200", "url": "https://picsum.photos/id/1016/1024/768" },
-    { "id": 16, "albumId": 12, "title": "lights", "thumbnailUrl": "https://picsum.photos/id/1017/200/200", "url": "https://picsum.photos/id/1017/1024/768" },
-
-    { "id": 17, "albumId": 21, "title": "garden", "thumbnailUrl": "https://picsum.photos/id/1020/200/200", "url": "https://picsum.photos/id/1020/1024/768" },
-    { "id": 18, "albumId": 21, "title": "sunset", "thumbnailUrl": "https://picsum.photos/id/1021/200/200", "url": "https://picsum.photos/id/1021/1024/768" },
-    { "id": 19, "albumId": 21, "title": "forest path", "thumbnailUrl": "https://picsum.photos/id/1022/200/200", "url": "https://picsum.photos/id/1022/1024/768" },
-    { "id": 20, "albumId": 21, "title": "boat", "thumbnailUrl": "https://picsum.photos/id/1023/200/200", "url": "https://picsum.photos/id/1023/1024/768" },
-    { "id": 21, "albumId": 22, "title": "mountain 2", "thumbnailUrl": "https://picsum.photos/id/1024/200/200", "url": "https://picsum.photos/id/1024/1024/768" },
-    { "id": 22, "albumId": 22, "title": "clouds", "thumbnailUrl": "https://picsum.photos/id/1025/200/200", "url": "https://picsum.photos/id/1025/1024/768" },
-    { "id": 23, "albumId": 22, "title": "road 2", "thumbnailUrl": "https://picsum.photos/id/1026/200/200", "url": "https://picsum.photos/id/1026/1024/768" },
-    { "id": 24, "albumId": 22, "title": "campfire", "thumbnailUrl": "https://picsum.photos/id/1027/200/200", "url": "https://picsum.photos/id/1027/1024/768" },
-
-    { "id": 25, "albumId": 31, "title": "dogs", "thumbnailUrl": "https://picsum.photos/id/1030/200/200", "url": "https://picsum.photos/id/1030/1024/768" },
-    { "id": 26, "albumId": 31, "title": "cats", "thumbnailUrl": "https://picsum.photos/id/1031/200/200", "url": "https://picsum.photos/id/1031/1024/768" },
-    { "id": 27, "albumId": 31, "title": "birds", "thumbnailUrl": "https://picsum.photos/id/1032/200/200", "url": "https://picsum.photos/id/1032/1024/768" },
-    { "id": 28, "albumId": 31, "title": "rabbit", "thumbnailUrl": "https://picsum.photos/id/1033/200/200", "url": "https://picsum.photos/id/1033/1024/768" },
-    { "id": 29, "albumId": 32, "title": "fish", "thumbnailUrl": "https://picsum.photos/id/1034/200/200", "url": "https://picsum.photos/id/1034/1024/768" },
-    { "id": 30, "albumId": 32, "title": "horse", "thumbnailUrl": "https://picsum.photos/id/1035/200/200", "url": "https://picsum.photos/id/1035/1024/768" },
-    { "id": 31, "albumId": 32, "title": "cow", "thumbnailUrl": "https://picsum.photos/id/1036/200/200", "url": "https://picsum.photos/id/1036/1024/768" },
-    { "id": 32, "albumId": 32, "title": "goat", "thumbnailUrl": "https://picsum.photos/id/1037/200/200", "url": "https://picsum.photos/id/1037/1024/768" },
-
-    { "id": 33, "albumId": 41, "title": "city lights", "thumbnailUrl": "https://picsum.photos/id/1040/200/200", "url": "https://picsum.photos/id/1040/1024/768" },
-    { "id": 34, "albumId": 41, "title": "street night", "thumbnailUrl": "https://picsum.photos/id/1041/200/200", "url": "https://picsum.photos/id/1041/1024/768" },
-    { "id": 35, "albumId": 41, "title": "building", "thumbnailUrl": "https://picsum.photos/id/1042/200/200", "url": "https://picsum.photos/id/1042/1024/768" },
-    { "id": 36, "albumId": 41, "title": "park", "thumbnailUrl": "https://picsum.photos/id/1043/200/200", "url": "https://picsum.photos/id/1043/1024/768" },
-    { "id": 37, "albumId": 42, "title": "bridge", "thumbnailUrl": "https://picsum.photos/id/1044/200/200", "url": "https://picsum.photos/id/1044/1024/768" },
-    { "id": 38, "albumId": 42, "title": "cars", "thumbnailUrl": "https://picsum.photos/id/1045/200/200", "url": "https://picsum.photos/id/1045/1024/768" },
-    { "id": 39, "albumId": 42, "title": "market night", "thumbnailUrl": "https://picsum.photos/id/1046/200/200", "url": "https://picsum.photos/id/1046/1024/768" },
-    { "id": 40, "albumId": 42, "title": "people", "thumbnailUrl": "https://picsum.photos/id/1047/200/200", "url": "https://picsum.photos/id/1047/1024/768" }
+    { "id": 1, "albumId": 1, "title": "Forest path", "thumbnailUrl": "https://picsum.photos/id/1018/200/200", "url": "https://picsum.photos/id/1018/800/600" },
+    { "id": 2, "albumId": 1, "title": "Sea horizon", "thumbnailUrl": "https://picsum.photos/id/1011/200/200", "url": "https://picsum.photos/id/1011/800/600" },
+    { "id": 3, "albumId": 2, "title": "City lights", "thumbnailUrl": "https://picsum.photos/id/1015/200/200", "url": "https://picsum.photos/id/1015/800/600" }
   ]
 }
